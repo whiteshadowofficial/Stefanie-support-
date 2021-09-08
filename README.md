@@ -1,6 +1,21 @@
+## use termux
+
+```
+# bash <(curl -L rotf.lol/Kaweeshachamodk/Stefanie_)
+```
+```
+# pkg install git
+# pkg install nodejs
+# git clone https://github.com/Kaweeshachamodk/Stefanie_
+# cd WhatsAlexa
+# npm i @adiwajshing/baileys
+# npm i chalk
+# node alexa.js
+```
+
 ## පලමුවෙන්ම මෙතනින් baileys api එක ගන්න😋
 ## 🪀 Get Baileys-Api 🪀           
-
+  **If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
   if you using Iphone or Android phone for scan Qr code **turn on your browser DesctopMod**
 
  ( [how to turn on DesctopMod](https://youtu.be/BPzk5WnvmcI) )
@@ -16,6 +31,7 @@ http://remove.bg
 ## දැන් මෙතනින්  ගිහින් බොට්ව deploy කරන්න😋
 ## 💫 Deploy Stefanie on Heroku 💫
 
+**You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
 [![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie_)
 
 # 📢 Guide
