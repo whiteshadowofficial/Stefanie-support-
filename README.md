@@ -12,7 +12,7 @@
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
 
 ## දැන් මෙතනින්  ගිහින් බොට්ව deploy කරන්න😋
-## 💫 Deploy WhatsAlexa on Heroku 💫
+## 💫 Deploy Stefanie on Heroku 💫
 
 [![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie_)
 
