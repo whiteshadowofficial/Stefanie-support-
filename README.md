@@ -1,10 +1,9 @@
-
-1 :-පලමුවෙන්ම මෙතනින් baileys api එක ගන්න😋
+## පලමුවෙන්ම මෙතනින් baileys api එක ගන්න😋
 ## 🪀 Get Baileys-Api 🪀           
 
   if you using Iphone or Android phone for scan Qr code **turn on your browser DesctopMod**
 
-               ( [how to turn on DesctopMod](https://youtu.be/BPzk5WnvmcI) )
+ ( [how to turn on DesctopMod](https://youtu.be/BPzk5WnvmcI) )
 
               
 
