@@ -54,7 +54,7 @@
 ## දැන් මෙතනින්  ගිහින් බොට්ව deploy කරන්න😋
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
-[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie_)
+[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie-support-)
 
 # 📢 Guide
 
