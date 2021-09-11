@@ -1,3 +1,14 @@
+## 🪀 Get Baileys-Api 🪀
+
+## පලමුවෙන්ම මෙතනින් baileys api එක ගන්න😋
+
+ **If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
+  if you using Iphone or Android phone for scan Qr code **turn on your browser DesctopMod**
+
+ ( [how to turn on DesctopMod](https://youtu.be/BPzk5WnvmcI) )
+
+ [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaweeshachamodk/WhatsAlexa-1)
+
 ## use termux
 
 ```
@@ -13,26 +24,37 @@
 # node alexa.js
 ```
 
-## පලමුවෙන්ම මෙතනින් baileys api එක ගන්න😋
-## 🪀 Get Baileys-Api 🪀           
-  **If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
-  if you using Iphone or Android phone for scan Qr code **turn on your browser DesctopMod**
 
- ( [how to turn on DesctopMod](https://youtu.be/BPzk5WnvmcI) )
+## 🪀 Get remove bg -Api 🪀 
 
- [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaweeshachamodk/WhatsAlexa-1)
+## මුලින්ම remve bg account එකක් හදාගන්න.
+
+( [singup remove bg](https://tinyurl.com/yhsb6b9x) )
+
 ## දැන් මෙතනින් Remove bg api එක ගන්න😋
 
-## 🪀 Get remove bg -Api 🪀                
-http://remove.bg
+
+( [Get Remove_Bg_Api_Key](https://tinyurl.com/yf53ko4b) )
 
 
+## 🪀 Get Heroku-Api 🪀
 
-## දැන් මෙතනින්  ගිහින් බොට්ව deploy කරන්න😋
+##මුලින්ම heroku account එකක් හදාගන්න.
+
+( [Singup Heroku](https://tinyurl.com/ye8y47lr) )
+
+## දැන් heroku_Api_Key එක ගන්න
+
+
+( [Get Heroku_Api_Key ](https://tinyurl.com/yf53ko) )
+
+
 ## 💫 Deploy Stefanie on Heroku 💫
 
+## දැන් මෙතනින්  ගිහින් බොට්ව deploy කරන්න😋
+
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
-[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie-support-)
+[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie_)
 
 # 📢 Guide
 
@@ -84,3 +106,10 @@ Click WA logo to Join Support Group 👇
 | Sticker Maker|✅|4.0|
 | Tagall|✅|4.0|
 | Unvoice|✅|4.3|
+
+## bot ගේ සම්පූර්ණ මෙනුව බලාගැනීම සදහා පහත ලෝගෝ එක මත clock කරන්න📢
+👇
+
+ 
+
+<a href="https://gist.github.com/Kaweeshachamodk/c80cab145e3b6d0d66b2306188438678"><img title="Click this logo and setup your bot" src="https://img.shields.io/badge/click this logo and sey up your bot-afnanplk/pinkymwol?color=red&style=for-the-badge&logo=whatsapp"></a>
