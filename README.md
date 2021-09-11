@@ -20,7 +20,7 @@
 
  ( [how to turn on DesctopMod](https://youtu.be/BPzk5WnvmcI) )
 
- [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
+ [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaweeshachamodk/WhatsAlexa-1)
 ## දැන් මෙතනින් Remove bg api එක ගන්න😋
 
 ## 🪀 Get remove bg -Api 🪀                
@@ -32,7 +32,7 @@ http://remove.bg
 ## 💫 Deploy Stefanie on Heroku 💫
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
-[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie_)
+[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie-support-)
 
 # 📢 Guide
 
